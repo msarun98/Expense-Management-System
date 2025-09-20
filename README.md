@@ -4,8 +4,7 @@ This project helps users with tracking daily expenses by enabling storage and re
 
 ## Project Structure
 - **frontend/** : contains streamlit application code.
-- **backend/** : contains FastAPI backend serve code.
-test
+- **backend/** : contains FastAPI backend server code.
 - **tests/** : contains test cases for both frontend and backend.
 - **requirements.txt/** : Lists the required python packages.
 - **README.md/** : Provides an overview and instructions for the project.
