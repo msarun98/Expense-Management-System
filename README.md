@@ -19,7 +19,7 @@ This project helps users with tracking daily expenses by enabling storage and re
 ## Setup Instructions
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/msarun98/expense_management_system
+    git clone https://github.com/msarun98/Expense-Management-System.git
     cd expense_management_system
     ```
 1. **Install dependencies:**
